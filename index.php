@@ -104,9 +104,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 </button>
             </form>
 
-            <div class="text-center mt-4">
-                <small class="text-muted">Default: admin / admin123</small>
-            </div>
+
         </div>
     </div>
 </div>
